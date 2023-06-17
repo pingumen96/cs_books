@@ -2,7 +2,6 @@
 An extensive repository dedicated to the cataloging and curation of a wide range of Information Technology literature. This collection includes textbooks, guides, tutorials, and seminal works in the field. A must-visit hub for students, educators, researchers, and self-learners seeking comprehensive resources in computing and IT.
 
 # Table of Contents
-- [CS Books](#cs_books)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Basic Data Structures](#basic-data-structures)
   - [Advanced Data Structures](#advanced-data-structures)
@@ -56,6 +55,8 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 
 ### Dynamic Programming
 
+### Parallel Algorithms
+
 ## Artificial Intelligence & Machine Learning
 
 ### General AI
@@ -72,9 +73,15 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 
 ### Reinforcement Learning
 
+### Generative Models
+
+### Explainable AI
+
 ## Computer Architecture & Organization
 
 ## Computer Networking
+
+### Wireless Networks
 
 ## Cybersecurity & Cryptography
 
@@ -117,5 +124,3 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 ## Embedded Systems & IoT
 
 ## Ethics in Technology
-
-Augmente
