@@ -1,6 +1,47 @@
 # cs_books
 An extensive repository dedicated to the cataloging and curation of a wide range of Information Technology literature. This collection includes textbooks, guides, tutorials, and seminal works in the field. A must-visit hub for students, educators, researchers, and self-learners seeking comprehensive resources in computing and IT.
 
+# Table of Contents
+- [CS Books](#cs_books)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
+  - [Basic Data Structures](#basic-data-structures)
+  - [Advanced Data Structures](#advanced-data-structures)
+  - [Sorting & Searching Algorithms](#sorting--searching-algorithms)
+  - [Graph Algorithms](#graph-algorithms)
+  - [Dynamic Programming](#dynamic-programming)
+- [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
+  - [General AI](#general-ai)
+  - [Machine Learning](#machine-learning)
+  - [Deep Learning](#deep-learning)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Computer Vision](#computer-vision)
+  - [Robotics](#robotics)
+  - [Reinforcement Learning](#reinforcement-learning)
+- [Computer Architecture & Organization](#computer-architecture--organization)
+- [Computer Networking](#computer-networking)
+- [Cybersecurity & Cryptography](#cybersecurity--cryptography)
+- [Databases & Data Warehousing](#databases--data-warehousing)
+- [Distributed Systems & Cloud Computing](#distributed-systems--cloud-computing)
+- [Operating Systems](#operating-systems)
+- [Software Development & Design](#software-development--design)
+  - [Software Engineering & Design Patterns](#software-engineering--design-patterns)
+  - [Programming Languages](#programming-languages)
+  - [Web Development](#web-development)
+  - [Mobile Application Development](#mobile-application-development)
+  - [Game Development](#game-development)
+  - [Desktop Application Development](#desktop-application-development)
+- [Human-Computer Interaction](#human-computer-interaction)
+- [Quantum Computing](#quantum-computing)
+- [Bioinformatics](#bioinformatics)
+- [Blockchain & Cryptocurrencies](#blockchain--cryptocurrencies)
+- [Computational Theory & Mathematics](#computational-theory--mathematics)
+- [Data Science & Analytics](#data-science--analytics)
+- [Computer Graphics & Visualization](#computer-graphics--visualization)
+  - [Augmented Reality & Virtual Reality](#augmented-reality--virtual-reality)
+- [Embedded Systems & IoT](#embedded-systems--iot)
+- [Ethics in Technology](#ethics-in-technology)
+
+
 ## Algorithms and Data Structures
 
 ### Basic Data Structures
