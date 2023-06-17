@@ -99,6 +99,9 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 
 ### Web Development
 
+#### Front-end Web Development
+- Modern Front-end Architecture (Ryan Lanciaux, 2021)
+
 ### Mobile Application Development
 
 ### Game Development
