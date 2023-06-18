@@ -110,6 +110,9 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 
 ## Human-Computer Interaction
 
+### Gamification
+- Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps (Gabe Zichermann, Christopher Cunningham, 2011)
+
 ## Quantum Computing
 
 ## Bioinformatics
