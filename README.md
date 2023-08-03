@@ -62,6 +62,7 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 ### General AI
 
 ### Machine Learning
+- Data Science from Scratch: First Principles with Python (Joel Grus, 2019)
 
 ### Deep Learning
 
