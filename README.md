@@ -30,6 +30,7 @@ An extensive repository dedicated to the cataloging and curation of a wide range
   - [Game Development](#game-development)
   - [Desktop Application Development](#desktop-application-development)
 - [Human-Computer Interaction](#human-computer-interaction)
+  - [Gamification](#gamification)
 - [Quantum Computing](#quantum-computing)
 - [Bioinformatics](#bioinformatics)
 - [Blockchain & Cryptocurrencies](#blockchain--cryptocurrencies)
