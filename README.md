@@ -105,6 +105,9 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 ### Database Design & Modeling
 - Data Modeling Essentials, Third Edition (Graeme Simsion, Graham Witt, 2004)
 
+### SQL Databases
+- Joe Celko's Trees and Hierarchies in SQL for Smarties (Joe Celko, 2012)
+
 ## Distributed Systems & Cloud Computing
 
 ## Operating Systems
