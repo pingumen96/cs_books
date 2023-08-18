@@ -20,6 +20,19 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 - [Computer Networking](#computer-networking)
 - [Cybersecurity & Cryptography](#cybersecurity--cryptography)
 - [Databases & Data Warehousing](#databases--data-warehousing)
+  - [Database Design & Modeling](#database-design--modeling)
+  - [SQL Databases](#sql-databases)
+  - [NoSQL Databases](#nosql-databases)
+  - [Database Administration & Optimization](#database-administration--optimization)
+  - [Data Warehousing](#data-warehousing)
+  - [Big Data Technologies](#big-data-technologies)
+  - [Data Lakes](#data-lakes)
+  - [ETL (Extract, Transform, Load)](#etl-extract-transform-load)
+  - [Data Migration & Integration](#data-migration--integration)
+  - [Database Security](#database-security)
+  - [Distributed Databases](#distributed-databases)
+  - [Graph Databases](#graph-databases)
+  - [Real-time Databases](#real-time-databases)
 - [Distributed Systems & Cloud Computing](#distributed-systems--cloud-computing)
 - [Operating Systems](#operating-systems)
 - [Software Development & Design](#software-development--design)
@@ -88,6 +101,9 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 ## Cybersecurity & Cryptography
 
 ## Databases & Data Warehousing
+
+### Database Design & Modeling
+- Data Modeling Essentials, Third Edition (Graeme Simsion, Graham Witt, 2004)
 
 ## Distributed Systems & Cloud Computing
 
