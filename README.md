@@ -116,6 +116,9 @@ An extensive repository dedicated to the cataloging and curation of a wide range
 
 ### Software Engineering & Design Patterns
 
+#### Domain-Driven Design
+- Implementing Domain-Driven Design (Vaughn Vernon, 2013)
+
 ### Programming Languages
 
 ### Web Development
